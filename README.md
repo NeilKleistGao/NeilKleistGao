@@ -8,14 +8,14 @@
 ![C++](https://img.shields.io/badge/C++-senior-important?logo=cplusplus)
 ![Github](https://img.shields.io/badge/Github-senior-important?logo=Github)
 ![Godot Engine](https://img.shields.io/badge/GodotEngine-junior-blue?logo=GodotEngine)
-![JavaScript](https://img.shields.io/badge/JavaScript-junior-blue?logo=JavaScript)
 ![LaTeX](https://img.shields.io/badge/LaTeX-junior-blue?logo=LaTeX)
+![Linux](https://img.shields.io/badge/Linux-work_platform-DB3552?logo=Linux)
 ![LLVM](https://img.shields.io/badge/LLVM-beginner-brightgreen?logo=LLVM)
+![Lua](https://img.shields.io/badge/Lua-junior-blue?logo=Lua)
+![Rust](https://img.shields.io/badge/Rust-beginner-brightgreen?logo=Rust)
 ![Scala](https://img.shields.io/badge/Scala-junior-blue?logo=Scala)
-![Spacemacs](https://img.shields.io/badge/Spacemacs-beginner-brightgreen?logo=Spacemacs)
-![TypeScript](https://img.shields.io/badge/TypeScript-junior-blue?logo=TypeScript)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-junior-blue?logo=Ubuntu)
 ![Unity](https://img.shields.io/badge/Unity-junior-blue?logo=Unity)
+![Windows](https://img.shields.io/badge/Windows-work_platform-DB3552?logo=Windows)
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
 
