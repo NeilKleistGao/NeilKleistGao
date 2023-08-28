@@ -23,3 +23,6 @@
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
 
 Cover: [ジル・裏通り from ユーネ](https://www.pixiv.net/artworks/62127066)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
