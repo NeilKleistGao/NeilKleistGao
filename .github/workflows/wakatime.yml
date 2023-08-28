@@ -1,6 +1,6 @@
 name: WAKATIME
 on:
-  scheduel:
+  schedule:
     - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
