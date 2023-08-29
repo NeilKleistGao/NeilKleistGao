@@ -1,7 +1,5 @@
 ![](imgs/main.png)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=neilkleistgao&theme=radical&hide_border=true&background=FFFFFF00&show_icons=true&include_all_commits=true" />
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
