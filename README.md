@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,16 @@ Sunday                   600 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 2 mins         █████████████████████████   100.00 % 
+C++                      2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 2 mins         █████████████████████████   100.00 % 
+Visual Studio            2 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CF                       1 hr 2 mins         █████████████████████████   100.00 % 
+CF                       2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -69,7 +69,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/05/2025 18:48:18 UTC
+ Last Updated on 09/05/2025 18:46:53 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
