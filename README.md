@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C779%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,23 @@ Sunday                   589 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    25 mins             ██████████░░░░░░░░░░░░░░░   41.17 % 
+C#                       23 mins             █████████░░░░░░░░░░░░░░░░   37.09 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             ██████████████████████░░░   88.14 % 
+Visual Studio            7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+artifact-icfp-2023       38 mins             ███████████████░░░░░░░░░░   60.55 % 
+godot                    17 mins             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+CSTest                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -69,7 +76,7 @@ GDScript                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 18:48:47 UTC
+ Last Updated on 07/06/2025 18:45:24 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
