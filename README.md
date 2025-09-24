@@ -3,13 +3,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C792%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 528.9 kB Used in GitHub's Storage 
  > 
-> 🏆 511 Contributions in the Year 2025
+> 🏆 513 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,6 +19,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1669 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+🌆 Daytime                2920 commits        ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌃 Evening                2332 commits        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌙 Night                  184 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1211 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Tuesday                  1132 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Wednesday                1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Thursday                 1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Friday                   1087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Saturday                 777 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Sunday                   700 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -30,7 +71,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 18:48:38 UTC
+ Last Updated on 24/09/2025 18:45:41 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
