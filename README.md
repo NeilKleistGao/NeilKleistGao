@@ -3,6 +3,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C794%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
@@ -17,6 +19,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1783 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+🌆 Daytime                3091 commits        ██████████░░░░░░░░░░░░░░░   41.09 % 
+🌃 Evening                2457 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌙 Night                  191 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Tuesday                  1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Wednesday                1262 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Thursday                 1044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Friday                   1139 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 854 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Sunday                   736 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -30,7 +71,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2025 18:48:59 UTC
+ Last Updated on 16/10/2025 18:49:06 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
