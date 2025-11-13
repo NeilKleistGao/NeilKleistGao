@@ -3,7 +3,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C809%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,16 +46,16 @@ Sunday                   742 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       7 hrs 10 mins       █████████████████████████   100.00 % 
+C#                       6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 10 mins       █████████████████████████   100.00 % 
+Visual Studio            6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectG                 7 hrs 10 mins       █████████████████████████   100.00 % 
+ProjectG                 6 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -71,7 +71,7 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 18:47:57 UTC
+ Last Updated on 13/11/2025 18:49:44 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
