@@ -3,15 +3,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 528.9 kB Used in GitHub's Storage 
  > 
-> 🏆 599 Contributions in the Year 2025
+> 🏆 601 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,45 +17,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1786 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-🌆 Daytime                3111 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
-🌃 Evening                2494 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌙 Night                  191 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Tuesday                  1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Wednesday                1275 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Thursday                 1052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Friday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Saturday                 859 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   742 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C#                       4 hrs 5 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Visual Studio            4 hrs 5 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ProjectG                 4 hrs 5 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -71,7 +30,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:46:33 UTC
+ Last Updated on 16/11/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
