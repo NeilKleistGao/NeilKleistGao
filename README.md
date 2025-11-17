@@ -3,7 +3,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=NeilKleistGao&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C814%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -17,6 +19,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1786 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+🌆 Daytime                3111 commits        ██████████░░░░░░░░░░░░░░░   41.02 % 
+🌃 Evening                2496 commits        ████████░░░░░░░░░░░░░░░░░   32.91 % 
+🌙 Night                  191 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Wednesday                1275 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 1052 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 859 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Sunday                   744 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C#                       7 hrs 43 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Visual Studio            7 hrs 43 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ProjectG                 7 hrs 43 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 hrs 43 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -30,7 +71,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 18:46:16 UTC
+ Last Updated on 17/11/2025 18:51:00 UTC
 <!--END_SECTION:waka-->
 
 ✋ ❄☟⚐🕆☝☟❄ 🕈☟✌❄ ✋🕯👎 👎⚐ 🕈✌💧 ✋🕯👎 🏱☼☜❄☜☠👎 ✋ 🕈✌💧 ⚐☠☜ ⚐☞ ❄☟⚐💧☜ 👎☜✌☞📫💣🕆❄☜💧📬
